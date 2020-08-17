@@ -13,7 +13,7 @@
  </defs>
  <g>
   <title>Layer 1</title>
-  <text filter="url(#svg_2_blur)" xml:space="preserve" text-anchor="middle" font-family="Quadon Black" font-weight="bold" font-size="200" id="svg_2" y="454.25766" x="323.18542" stroke-width="0" fill="#ca7d7d" transform="matrix(1.0252956999171334,0,0,1.3525945111941744,-9.85925513897756,-172.04301806934703) " stroke="#000000">OOSE</text>
-  <text stroke="#000000" transform="matrix(1.8120419985232559,0,0,1.5072308554355378,-153.27928198994672,-98.96990818879868) " xml:space="preserve" text-anchor="middle" font-family="Quadon Black" font-size="100" id="svg_1" y="202.43768" x="263.66898" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ca7d7d">&lt;/&gt;</text>
+  <text filter="url(#svg_2_blur)" xml:space="preserve" text-anchor="middle" font-family="Quadon Black" font-weight="bold" font-size="200" id="svg_2" y="454.25766" x="323.18542" stroke-width="0" fill="#e32770" transform="matrix(1.0252956999171334,0,0,1.3525945111941744,-9.85925513897756,-172.04301806934703) " stroke="#000000">OOSE</text>
+  <text stroke="#000000" transform="matrix(1.8120419985232559,0,0,1.5072308554355378,-153.27928198994672,-98.96990818879868) " xml:space="preserve" text-anchor="middle" font-family="Quadon Black" font-size="100" id="svg_1" y="202.43768" x="263.66898" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#e32770">&lt;/&gt;</text>
  </g>
 </svg>
