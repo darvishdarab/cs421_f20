@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{110:function(o){o.exports=JSON.parse('{"docsSidebars":{"docs":[{"type":"link","label":"Introduction","href":"/cs421_f20/docs/"}]},"permalinkToSidebar":{"/cs421_f20/docs/":"docs"},"version":null}')}}]);
